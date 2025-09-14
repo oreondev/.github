@@ -1,11 +1,11 @@
-![alt OreonDevelopment](https://www.oreondevelopment.com/wp-content/uploads/2020/12/OreonDevelopmentLogo.png)
+![alt OreonDevelopment](https://www.oreonit.com/wp-content/uploads/2020/12/OreonDevelopmentLogo.png)
 
-We’re a [London, UK based software development and consultancy company](https://www.oreondevelopment.com/)  created to provide exceptional software solutions and IT services. Our team of professional developers and IT professionals are equipped with the skills, knowledge and insight to go above and beyond for your business. We’re ready and waiting to provide bespoke services that exceed your expectations from day one. With over ten years of experience in IT, there’s a reason we’re the number one choice for hundreds of businesses across the UK.
+We’re a [London, UK based software development and consultancy company](https://www.oreonit.com/)  created to provide exceptional software solutions and IT services. Our team of professional developers and IT professionals are equipped with the skills, knowledge and insight to go above and beyond for your business. We’re ready and waiting to provide bespoke services that exceed your expectations from day one. With over ten years of experience in IT, there’s a reason we’re the number one choice for hundreds of businesses across the UK.
 
 
 Transforming Ideas into Scalable, Future-Ready Solutions
 
-At [Oreon Software Development & Consultancy](https://www.oreondevelopment.com/), we offer innovative software solutions aimed at empowering businesses in the digital age. As a trusted technology partner, we provide a wide range of services, including custom software development, web and mobile app development, cloud computing, AI-driven solutions, and DevOps consulting.
+At [Oreon Software Development & Consultancy](https://www.oreonit.com/), we offer innovative software solutions aimed at empowering businesses in the digital age. As a trusted technology partner, we provide a wide range of services, including custom software development, web and mobile app development, cloud computing, AI-driven solutions, and DevOps consulting.
 
 Our team consists of highly skilled engineers, UI/UX experts, and strategic consultants dedicated to helping startups and enterprises streamline their operations, enhance efficiency, and drive innovation. We have expertise across various industries, including fintech, healthcare, eCommerce, logistics, and enterprise solutions.
 
@@ -20,14 +20,14 @@ Our Services:
 - Custom Software Development: Scalable, robust, and feature-rich solutions.
 - Web & Mobile App Development: High-performance iOS, Android, and web apps.
 - AI & Machine Learning: Intelligent automation and data-driven insights.
-- Cloud Computing: [AWS](https://www.oreondevelopment.com/amazon-aws-cloud-consultancy-services/), [Azure](https://www.oreondevelopment.com/microsoft-azure-cloud-platform-consulting/), [Google Cloud Platform](https://www.oreondevelopment.com/google-cloud-platform-gcp-consultancy-services/), [DigitalOcean](https://www.oreondevelopment.com/digitalocean-cloud-consultancy-services/), and [IBM Cloud](https://www.oreondevelopment.com/ibm-cloud-consultancy-services/) consultancy and migration services.
-- [Ci/CD Consultancy Services for Seamless Software Delivery](https://www.oreondevelopment.com/ci-cd-software-delivery-consultancy-services/): CI/CD integrations and implementations with Jenkins, Github Actions, Gitlab Pipelines, Argocd
-- [Infrastructure as Code (IaC) Implementation Services](https://www.oreondevelopment.com/iac-implementation-services-with-terraform-ansible-cdk-cloudformation/): Fully codified Infrastucture For automated and consistent cloud Infrastructures with Ansible, Terraform, CDK or Cloudformation
+- Cloud Computing: [AWS](https://www.oreonit.com/amazon-aws-cloud-consultancy-services/), [Azure](https://www.oreonit.com/microsoft-azure-cloud-platform-consulting/), [Google Cloud Platform](https://www.oreonit.com/google-cloud-platform-gcp-consultancy-services/), [DigitalOcean](https://www.oreonit.com/digitalocean-cloud-consultancy-services/), and [IBM Cloud](https://www.oreonit.com/ibm-cloud-consultancy-services/) consultancy and migration services.
+- [Ci/CD Consultancy Services for Seamless Software Delivery](https://www.oreonit.com/ci-cd-software-delivery-consultancy-services/): CI/CD integrations and implementations with Jenkins, Github Actions, Gitlab Pipelines, Argocd
+- [Infrastructure as Code (IaC) Implementation Services](https://www.oreonit.com/iac-implementation-services-with-terraform-ansible-cdk-cloudformation/): Fully codified Infrastucture For automated and consistent cloud Infrastructures with Ansible, Terraform, CDK or Cloudformation
 - UI/UX Design: Engaging and intuitive designs that enhance user experiences.
-- [Site Reliability Engineering (SRE) Consulting Services](https://www.oreondevelopment.com/site-reliability-engineering-sre-consulting-services/): Build a Resilient, Scalable, and Reliable Infrastructure
-- [Observability and MOnitoring Consultancy Services](https://www.oreondevelopment.com/observability-and-monitoring-consultancy-services/): Revolutionize your systems with our observability ad monitoring consultancy solutions.
+- [Site Reliability Engineering (SRE) Consulting Services](https://www.oreonit.com/site-reliability-engineering-sre-consulting-services/): Build a Resilient, Scalable, and Reliable Infrastructure
+- [Observability and MOnitoring Consultancy Services](https://www.oreonit.com/observability-and-monitoring-consultancy-services/): Revolutionize your systems with our observability ad monitoring consultancy solutions.
 Gain full visibility, smarter alerting, and robust monitoring to maximize your operational efficiency.
-- [Cloud Inrastructure Consultancy Services](https://www.oreondevelopment.com/cloud-infrastructure-consultancy-services/): Cloud Infrastructure Consultancy Services For Fully Automated Cloud Infrastructures
+- [Cloud Inrastructure Consultancy Services](https://www.oreonit.com/cloud-infrastructure-consultancy-services/): Cloud Infrastructure Consultancy Services For Fully Automated Cloud Infrastructures
 - 
 Let's Build Something Extraordinary Together!
 
