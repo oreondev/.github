@@ -5,7 +5,7 @@ We’re a [London, UK-based software development, Cloud And Devops consultancy c
 
 Transforming Ideas into Scalable, Future-Ready Solutions
 
-At [Oreon Software Development & Consultancy](https://www.oreonit.com/), we offer innovative software solutions aimed at empowering businesses in the digital age. As a trusted technology partner, we provide a wide range of services, including custom software development, web and mobile app development, cloud computing, AI-driven solutions, and DevOps consulting.
+At [Oreon Information Technology](https://www.oreonit.com/), we offer innovative software solutions aimed at empowering businesses in the digital age. As a trusted technology partner, we provide a wide range of services, including custom software development, web and mobile app development, cloud computing, AI-driven solutions, and DevOps consulting.
 
 Our team consists of highly skilled engineers, UI/UX experts, and strategic consultants dedicated to helping startups and enterprises streamline their operations, enhance efficiency, and drive innovation. We have expertise across various industries, including fintech, healthcare, eCommerce, logistics, and enterprise solutions.
 
