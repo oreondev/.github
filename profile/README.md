@@ -1,6 +1,6 @@
-![alt OreonDevelopment](https://www.oreonit.com/wp-content/uploads/2020/12/OreonDevelopmentLogo.png)
+![alt Oreon Information Technology](https://www.oreonit.com/wp-content/uploads/2020/11/oreon_logo.svg)
 
-We’re a [London, UK based software development and consultancy company](https://www.oreonit.com/)  created to provide exceptional software solutions and IT services. Our team of professional developers and IT professionals are equipped with the skills, knowledge and insight to go above and beyond for your business. We’re ready and waiting to provide bespoke services that exceed your expectations from day one. With over ten years of experience in IT, there’s a reason we’re the number one choice for hundreds of businesses across the UK.
+We’re a [London, UK-based software development, Cloud And Devops consultancy company](https://www.oreonit.com/)  created to provide exceptional software solutions and IT services. Our team of professional developers and IT professionals are equipped with the skills, knowledge and insight to go above and beyond for your business. We’re ready and waiting to provide bespoke services that exceed your expectations from day one. With over ten years of experience in IT, there’s a reason we’re the number one choice for hundreds of businesses across the UK.
 
 
 Transforming Ideas into Scalable, Future-Ready Solutions
@@ -11,7 +11,7 @@ Our team consists of highly skilled engineers, UI/UX experts, and strategic cons
 
 What Sets Us Apart?
 
-Client-Centric Approach:  We create customized solutions that align with your business objectives.
+Client-Centric Approach:  We create customised solutions that align with your business objectives.
 Agile & Scalable Development: We ensure the development of seamless, high-performance applications that are future-proof.
 AI & Cloud-Powered Solutions: We unlock the potential of AI, automation, and cloud technologies to enhance your operations.
 End-to-End Support: We provide guidance at every step, from ideation to deployment and ongoing maintenance.
